@@ -523,16 +523,3 @@ Contributions are welcome! Here's how to get started:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-<p align="center">
-  <strong>Built with ❤️ using Google Gemini, FastAPI, React, and FAISS</strong>
-</p>
-
-<p align="center">
-  <sub>If you find this project useful, consider giving it a ⭐</sub>
-</p>
